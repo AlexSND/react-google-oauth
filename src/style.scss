@@ -4,4 +4,13 @@ html, body {
 
 body {
   margin: 0;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
 }
